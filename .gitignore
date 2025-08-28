@@ -1,0 +1,9 @@
+# dependencies
+server/node_modules
+client/node_modules
+
+# Environment files
+server/.env
+
+# Media
+intro.mp4
